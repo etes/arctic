@@ -31,3 +31,4 @@ var map = new L.map('map', {
     	layers: [npolarTiledLayer]
 });
 
+var hash = new L.Hash(map);
