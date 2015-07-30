@@ -1,4 +1,4 @@
-## Leaflet based arctic map
+## Arctic map with leaflet and esri-leaflet
 
 Live at : http://etes.github.io/arctic
 
